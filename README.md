@@ -1,4 +1,4 @@
-<h1> # 🎁 Amigo Secreto — Aplicación Web </h1>
+<h1>  🎁 Amigo Secreto — Aplicación Web </h1>
 
 Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuarios ingresan nombres uno por uno, y al hacer clic en “Sortear”, se selecciona aleatoriamente un participante. La lista se guarda en el navegador y se oculta al mostrar el resultado.
 
@@ -30,8 +30,8 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 ---
 
 ## 🖼️ Capturas de pantalla
+![amigo](https://github.com/user-attachments/assets/d941f08e-c078-4720-916d-086ea420b80f)
 
-> 📌 *Agrega aquí tus imágenes cuando tengas la app funcionando. Puedes subirlas a GitHub y enlazarlas así:*
 
  ## 🌐 Demo en línea
 
@@ -57,7 +57,7 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
 ---
 
-Estructura del proyecto
+## 📂 Estructura del proyecto
 
 amigo-secreto
 
@@ -70,7 +70,7 @@ README.md        # Documentación
 
 
 
-Mejoras Futuras
+## 🧪 Mejoras futuras
 
 - Animaciones al sortear
 - Diseño responsive para móviles
@@ -78,16 +78,19 @@ Mejoras Futuras
 - Sorteo sin repeticiones (asignaciones únicas)
 
 
-Contribuciones
+## 🤝 Contribuciones
+
 
 Las contribuciones son bienvenidas
 Haz un fork, crea una rama y envía tu pull request con mejoras o correcciones
 
-Licencia
+## 📄 Licencia
+
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo y compartirlo libremente.
 
-Autor
+## ✨ Autor
+
 Pamela
 Desarrolladora web en formación, apasionada por la accesibilidad, la lógia interactiva y el aprendizaje colaborativo.
 
