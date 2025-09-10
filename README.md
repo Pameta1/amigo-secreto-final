@@ -1,4 +1,4 @@
-<h1>  🎁 Amigo Secreto — Aplicación Web </h1>
+# 🎁 Amigo Secreto — Aplicación Web
 
 Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuarios ingresan nombres uno por uno, y al hacer clic en “Sortear”, se selecciona aleatoriamente un participante. La lista se guarda en el navegador y se oculta al mostrar el resultado.
 
@@ -6,16 +6,16 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
 ## 📚 Índice
 
-- Funcionalidades](#-funcionalidades)
-- Capturas de pantalla](#-capturas-de-pantalla)
-- Demo en línea](#-demo-en-línea)
-- Tecnologías utilizadas](#️-tecnologías-utilizadas)
-- Cómo usar](#-cómo-usar)
-- Estructura del proyecto](#-estructura-del-proyecto)
-- Mejoras futuras](#-mejoras-futuras)
-- Contribuciones](#-contribuciones)
-- Licencia](#-licencia)
-- Autor](#-autor)
+- [🚀 Funcionalidades](#-funcionalidades)
+- [🖼️ Capturas de pantalla](#-capturas-de-pantalla)
+- [🌐 Demo en línea](#-demo-en-línea)
+- [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
+- [📦 Cómo usar](#-cómo-usar)
+- [📂 Estructura del proyecto](#-estructura-del-proyecto)
+- [🧪 Mejoras futuras](#-mejoras-futuras)
+- [🤝 Contribuciones](#-contribuciones)
+- [📄 Licencia](#-licencia)
+- [✨ Autor](#-autor)
 
 ---
 
@@ -26,20 +26,21 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 - ✅ Visualización dinámica de la lista
 - ✅ Eliminación de nombres
 - ✅ Sorteo aleatorio con ocultamiento de lista
-  
+
 ---
 
 ## 🖼️ Capturas de pantalla
-![amigo](https://github.com/user-attachments/assets/d941f08e-c078-4720-916d-086ea420b80f)
 
+ ![pantalla principal](https://github.com/user-attachments/assets/d941f08e-c078-4720-916d-086ea420b80f)
+ ![resultado del sorteo](https://github.com/user-attachments/assets/b769e182-566f-41cf-afe3-d8183c828a33)
 
  ## 🌐 Demo en línea
 
-🔗 [Ver demo en línea](https://tu-usuario.github.io/amigo-secreto)
+🔗 [Ver demo en línea](https://pameta1.github.io/amigo-secreto-final/)
  
 ---
 
-🛠️ Tecnología utilizadas
+## 🛠️ Tecnología utilizadas
 
 - HTML5
 - CSS3
@@ -47,7 +48,7 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
 ---
 
-📦 Cómo Usar
+## 📦 Cómo Usar
 
 1. Clona o descarga el respositorio.
 2. Abre el archivo index.html en tu navegador.
