@@ -6,16 +6,16 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
 ## 📚 Índice
 
-- [🚀 Funcionalidades](#-funcionalidades)
-- [🖼️ Capturas de pantalla](#-capturas-de-pantalla)
-- [🌐 Demo en línea](#-demo-en-línea)
-- [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
-- [📦 Cómo usar](#-cómo-usar)
-- [📂 Estructura del proyecto](#-estructura-del-proyecto)
-- [🧪 Mejoras futuras](#-mejoras-futuras)
-- [🤝 Contribuciones](#-contribuciones)
-- [📄 Licencia](#-licencia)
-- [✨ Autor](#-autor)
+- Funcionalidades](#-funcionalidades)
+- Capturas de pantalla](#-capturas-de-pantalla)
+- Demo en línea](#-demo-en-línea)
+- Tecnologías utilizadas](#️-tecnologías-utilizadas)
+- Cómo usar](#-cómo-usar)
+- Estructura del proyecto](#-estructura-del-proyecto)
+- Mejoras futuras](#-mejoras-futuras)
+- Contribuciones](#-contribuciones)
+- Licencia](#-licencia)
+- Autor](#-autor)
 
 ---
 
@@ -33,53 +33,62 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
 > 📌 *Agrega aquí tus imágenes cuando tengas la app funcionando. Puedes subirlas a GitHub y enlazarlas así:*
 
-```markdown
-![Pantalla principal](https://github.com/tu-usuario/amigo-secreto/blob/main/capturas/pantalla-principal.png)
-![Resultado del sorteo](https://github.com/tu-usuario/amigo-secreto/blob/main/capturas/resultado.png)
-¡Por supuesto, Pamela! Aquí tienes una versión visual y atractiva del  para GitHub, completamente en español, con secciones bien organizadas, emojis para mejorar la lectura, y espacios preparados para que puedas añadir capturas de pantalla o un enlace a tu demo en línea cuando lo tengas listo.
+ ## 🌐 Demo en línea
+
+🔗 [Ver demo en línea](https://tu-usuario.github.io/amigo-secreto)
+ 
+---
+
+🛠️ Tecnología utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (DOMO, eventos, lógica de sorteo)
+
+---
+
+📦 Cómo Usar
+
+1. Clona o descarga el respositorio.
+2. Abre el archivo index.html en tu navegador.
+3. Ingresa nombres en el campo de texto.
+4. Haz clic en Agregar para añadirlos.
+5. Haz clic en Sortear amigo secreto para ver el resultado.
+
+---
+
+Estructura del proyecto
+
+amigo-secreto
+
+index.html       # Estructura principal
+style.css        # Estilos (si decides separarlos)
+script.js        # Lógica JS (si decides modularizar)
+capturas/        # Imágenes del proyecto
+README.md        # Documentación
 
 
 
-🌐 Demo en línea
 
-🔗 Ver demo en línea
+Mejoras Futuras
 
-🛠️ Tecnologías utilizadas
-• 	HTML5
-• 	CSS3
-• 	JavaScript (DOM, eventos, lógica de sorteo)
-• 	 para persistencia
+- Animaciones al sortear
+- Diseño responsive para móviles
+- Exportar lista en .CSV o .TXT
+- Sorteo sin repeticiones (asignaciones únicas)
 
-📦 Cómo usar
-1. 	Clona o descarga el repositorio.
-2. 	Abre el archivo  en tu navegador.
-3. 	Ingresa nombres en el campo de texto.
-4. 	Haz clic en Agregar para añadirlos.
-5. 	Haz clic en Sortear amigo secreto para ver el resultado.
 
-📂 Estructura del proyecto
-amigo-secreto/
-│
-├── index.html       # Estructura principal
-├── style.css        # Estilos (si decides separarlos)
-├── script.js        # Lógica JS (si decides modularizar)
-├── capturas/        # Imágenes del proyecto
-└── README.md        # Documentación
+Contribuciones
 
-🧪 Mejoras futuras
-• 	🎨 Animaciones al sortear
-• 	📱 Diseño responsive para móviles
-• 	📤 Exportar lista en  o 
-• 	🔒 Sorteo sin repeticiones (asignaciones únicas)
+Las contribuciones son bienvenidas
+Haz un fork, crea una rama y envía tu pull request con mejoras o correcciones
 
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas!
-Haz un fork, crea una rama, y envía tu pull request con mejoras o correcciones.
-
-📄 Licencia
+Licencia
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo, modificarlo y compartirlo libremente.
 
-✨ Autor
+Autor
 Pamela
-Desarrolladora web en formación, apasionada por la accesibilidad, la lógica interactiva y el aprendizaje colaborativo.
+Desarrolladora web en formación, apasionada por la accesibilidad, la lógia interactiva y el aprendizaje colaborativo.
+
+
